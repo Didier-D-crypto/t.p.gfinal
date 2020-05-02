@@ -21,15 +21,6 @@ so that I have quick access to emails and GitHub profiles
 
 
 
-
-![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
-![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
-
-In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
-
-The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
-
-
  workflow:
 
 1. Run tests
@@ -114,21 +105,8 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
   * Role-specific property (School, link to GitHub profile, or office number)
 
-## Bonus
-
-* Use validation to ensure that the information provided is in the proper expected format.
-
-* Add the application to your portfolio.
 
 
 
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL of the GitHub repository
-
-* **Optional**: GIF of your CLI applications functionality
 
 
