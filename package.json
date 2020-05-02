@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": " sofware application which generates engineer profile",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "inquirer": "^7.1.0",
+    "open": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "g"
+  },
+  "author": "Didier Delphin",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
