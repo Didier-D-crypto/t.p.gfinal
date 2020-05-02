@@ -6,7 +6,7 @@ One of the most important aspects of programming is writing code that is readabl
 
 
 ## Instructions
-
+<a href="https://gyazo.com/402ae12e88d33ce0c3a2fa134e1834bc"><img src="https://i.gyazo.com/402ae12e88d33ce0c3a2fa134e1834bc.gif" alt="Image from Gyazo" width="1207.5"/></a>
 
 ```
 As a manager
